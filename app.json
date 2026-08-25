@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["ios", "android", "web"],
-    "description": "Up Ka New Shopping App",
+    "android": {
+      "package": "com.saurabh21911.upbazaar"
+    },
+    "ios": {
+      "bundleIdentifier": "com.saurabh21911.upbazaar"
+    },
     "extra": {
       "eas": {
         "projectId": "b37a8604-096f-44d2-877f-aa0c1a70fd40"
