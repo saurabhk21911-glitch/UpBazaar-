@@ -21,8 +21,9 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-          "package": "com.upbazaar.app",
+                "package": "com.upbazaar.app"
     },
+    
     "web": {
       "favicon": "./assets/favicon.png"
     },
