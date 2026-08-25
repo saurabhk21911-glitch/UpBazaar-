@@ -1,32 +1,15 @@
 {
   "expo": {
-    "name": "upbaazar-",
-    "slug": "snack-55c3e0f2-68d2-474f-8d04-cf02fc2dba5e",
+    "name": "UpBazaar",
+    "slug": "upbazaar-final",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true,
-      "package": "com.upbazaar.app"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
     "platforms": ["ios", "android", "web"],
-    "description": "Up Ka New Shopping App"
+    "description": "Up Ka New Shopping App",
+    "extra": {
+      "eas": {
+        "projectId": "b37a8604-096f-44d2-877f-aa0c1a70fd40"
+      }
+    }
   }
 }
