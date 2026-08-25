@@ -27,11 +27,6 @@
       "favicon": "./assets/favicon.png"
     },
     "platforms": ["ios", "android", "web"],
-    "extra": {
-      "eas": {
-        "projectId": "b376808a-89af-4a42-877f-aa8c1670f940"
-      }
-    },
     "description": "Up Ka New Shopping App"
   }
 }
